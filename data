@@ -1,0 +1,14 @@
+PS C:\Users\LENOVO\TESTSQL> cd backend
+PS C:\Users\LENOVO\TESTSQL\backend> npm init
+ npm i mysql express cors nodemon
+
+ npx create-react-app frontend
+ npm i bootstrap react-router-dom
+
+
+скачиваем xaamp control panel
+start apach mysql
+ http://localhost/dashboard/
+ заитем phpMmyadmin
+ new database
+ 
